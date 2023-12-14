@@ -1,3 +1,7 @@
+# color-hackathon-test-repo
+
+This is a simple repo just to test PR AI tools for the Color hackathon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
